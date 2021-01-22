@@ -26,7 +26,7 @@ function ageChecker(age) {
   }
 
   else {
-    return"You are a teenager"
+    return"You are a teenager!"
   }
 
 }
