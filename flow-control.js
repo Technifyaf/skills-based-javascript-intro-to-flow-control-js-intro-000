@@ -50,12 +50,12 @@ function switchAge(age) {
 
 
 
-    
-    
-      
+
+
+
       break;
     default:
-      
+
   }
 
 }
